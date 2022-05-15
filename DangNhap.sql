@@ -5,7 +5,7 @@ use QuanLyDoXe
 go
 
 create table Account(
-	userName varchar(100) not null primary key,
+	null key primary key,
 	pass varchar(100) not null
 )	
 go
